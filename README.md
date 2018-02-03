@@ -5,7 +5,6 @@ used image preprocessing (histogram matching, histogram qualization, normalizati
 ## Libraries Used
 The code has been tested with the following configuration
 
-
 - nibabel == 2.1.0
 - nipype == 0.12.1
 - python == 3.6
@@ -18,7 +17,7 @@ The code has been tested with the following configuration
 - Qimage2ndarray == 1.6
 
 ## How to run 
-* Run main.py file
+Once you have installed the above softwares run main.py file
 
 ## Results
 ![](gui.PNG "GUI")
