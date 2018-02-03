@@ -21,4 +21,4 @@ Once you have installed the above softwares run main.py file
 ## Results
 ![](gui.PNG "GUI")
 
-## More detail about the project can be found in report.pdf file.
+## More detail about the project can be found in Project_report.pdf file.
