@@ -1,18 +1,19 @@
 # Image Preparation for Machine Learning
 This GUI contains the commonly used image preprocessing techniques in machine learning and deep learning in medical image taking into consideration different ground truth types. The input can be 2D and 3D images.
+
 **Intnsity matching:**
-. Histogram matching
-. Histogram qualization and 
-. Intensity normalization
+  - Histogram matching
+  - Histogram qualization and 
+  - Intensity normalization
 
 **Patch extraction:**
-. 2D
-. 2.5D and 
-. 3D
+ - 2D
+ - 2.5D and 
+ - 3D
 
-**Data augmentation techniques:**
-. Flipping
-. Rotation
+**Data augmentation:**
+ - Flipping
+ - Rotation
 
 ## Libraries Used
 The code has been tested with the following configuration
