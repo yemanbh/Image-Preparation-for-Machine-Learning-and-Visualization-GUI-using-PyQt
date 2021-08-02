@@ -1,6 +1,18 @@
 # Image Preparation for Machine Learning
-This software contains the most commonly
-used image preprocessing (histogram matching, histogram qualization, normalization), Patch extraction ( 2D, 2,5D, 3D) and augmentation techniques to apply machine learning and deep learning in amedical image taking into consideration different ground truth types. It has also a visualzation tool to visualize 2D and 3D images.
+This GUI contains the commonly used image preprocessing techniques in machine learning and deep learning in medical image taking into consideration different ground truth types. The input can be 2D and 3D images.
+**Intnsity matching:**
+. Histogram matching
+. Histogram qualization and 
+. Intensity normalization
+
+**Patch extraction:**
+. 2D
+. 2.5D and 
+. 3D
+
+**Data augmentation techniques:**
+. Flipping
+. Rotation
 
 ## Libraries Used
 The code has been tested with the following configuration
