@@ -1,4 +1,5 @@
-# Image Preparation for Machine Learning
+# Image-Preparation-for-Machine-Learning-and-Visualization-GUI-using-PyQt
+
 This GUI contains the commonly used image preprocessing techniques in machine learning and deep learning in medical image taking into consideration different ground truth types. The input can be 2D and 3D images.
 
 **Intnsity matching:**
